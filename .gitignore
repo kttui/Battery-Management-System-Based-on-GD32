@@ -1,0 +1,14 @@
+Objects/
+Listings/
+*.axf
+*.hex
+*.bin
+*.map
+*.d
+*.o
+*.crf
+*.lst
+*.bak
+*.Bak
+JLinkLog.txt
+JLinkSettings.ini
